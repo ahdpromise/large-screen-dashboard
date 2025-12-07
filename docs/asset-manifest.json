@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/large-screen-dashboard/static/css/main.faeec92a.css",
+    "main.js": "/large-screen-dashboard/static/js/main.a4907590.js",
+    "index.html": "/large-screen-dashboard/index.html",
+    "main.faeec92a.css.map": "/large-screen-dashboard/static/css/main.faeec92a.css.map",
+    "main.a4907590.js.map": "/large-screen-dashboard/static/js/main.a4907590.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faeec92a.css",
+    "static/js/main.a4907590.js"
+  ]
+}
